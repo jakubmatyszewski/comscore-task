@@ -25,4 +25,5 @@ How to run it test case
 
 1. Must have docker installed
 2. run `make test` or run docker manually with command from `Makefile`
-# comscore-task
+
+![image](https://user-images.githubusercontent.com/15054592/217909389-4fdbee7d-d0af-4175-a515-eebad3b3a296.png)
